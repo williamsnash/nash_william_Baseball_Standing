@@ -1,0 +1,36 @@
+League	AL East
+Tampa Bay	37	20
+NY Yankees	32	24
+Toronto	29	27
+Baltimore	23	33
+Boston	22	34
+League	AL Central		
+Minnesota	35	22
+Chi White Sox	34	23
+Cleveland	33	24
+Kansas City	23	33
+Detroit	22	32
+League	AL West		
+Oakland	34	21
+Houston	28	28
+LA Angels	26	31
+Seattle	25	31
+Texas	19	37
+League	NL East	
+Atlanta	34	22
+Miami	28	28
+Philadelphia	28	29
+NY Mets	26	31
+Washington	23	34
+League	NL Central		
+Chi Cubs	32	25
+St. Louis	27	26
+Cincinnati	29	28
+Milwaukee	27	28
+Pittsburgh	18	39
+League	NL West		
+LA Dodgers	39	17
+San Diego	34	22
+San Francisco	28	28
+Colorado	25	31
+Arizona	22	34
